@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">coursera</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_email">email</string>
+    <string name="txt_telefono">telefono</string>
+    <string name="button">registrar</string>
+
+    <string name="tv1">Nombre</string>
+    <string name="tv2">email</string>
+    <string name="tv3">telefono</string>
+    <string name="button2">regresar</string>
+</resources>
